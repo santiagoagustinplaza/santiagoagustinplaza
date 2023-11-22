@@ -1,7 +1,7 @@
 ## Hey there 👋
-<h2> I'm Santiago Agustin Plaza! <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="40"></h2>
+<h2> I'm Santiago Agustin Plaza! <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="20"></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100">
-<p><em>IT Support / Cloud Support / Cloud Administrator </a></br>Applications Support Analyst at <a href="https://dxc.com/us/en/">DXC Technology</a> 
+<p><em>**IT Support / Cloud Support / Cloud Administrator** </a></br>Applications Support Analyst at <a href="https://dxc.com/us/en/">DXC Technology</a> 
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em></p>
@@ -35,7 +35,7 @@ const santiagoagustinplaza = new
 Console.WriteLine(acuedd, "Change is the end result of all true learning 🙂");
 ```
 
-<img src="https://i.giphy.com/media/3n1O5MZSrfeQR7EkoS/giphy.webp" width="60"> <em><b>
-I enjoy connecting with professionals.</b> Feel free to reach out. <b>I look forward to connecting with you!</b> :)</em>
+<img src="https://i.giphy.com/media/3n1O5MZSrfeQR7EkoS/giphy.webp" width="30"> <em><b>
+I enjoy connecting with professionals.</b> Feel free to reach out. <b>I look forward to connecting with you!</b> </em>
 
 ---
