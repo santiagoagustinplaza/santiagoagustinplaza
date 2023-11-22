@@ -1,9 +1,9 @@
 ## Hey there 👋
 <h2> I'm Santiago Agustin Plaza! <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="20"></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100">
-<p><em>**IT Support / Cloud Support / Cloud Administrator** </a></br>Applications Support Analyst at <a href="https://dxc.com/us/en/">DXC Technology</a> 
+<p><em><strong>IT Support / Cloud Support / Cloud Administrator</strong></a></br>Applications Support Analyst at <a href="https://dxc.com/us/en/">DXC Technology</a> 
 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 </em></p>
 
 [![Linkedin: santiagoagustinplaza](https://img.shields.io/badge/-santiagoagustinplaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santiagoagustinplaza/)](https://www.linkedin.com/in/santiagoagustinplaza/)
