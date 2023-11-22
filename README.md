@@ -30,7 +30,7 @@ const santiagoagustinplaza = new
     },
     database = new[] { "MySQL", "SQL Server", "Oracle" },
     tools = new[] { "Postman", "Prometheus", "Dynatrace", "Grafana", "ServiceNow" },
-    programming = new[] { "Grafana", "ServiceNow" }
+    programming = new[] { "C#", ".NET", "ASP.NET" }
 };
 Console.WriteLine(acuedd, "Change is the end result of all true learning 🙂");
 ```
