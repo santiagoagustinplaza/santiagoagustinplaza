@@ -32,7 +32,7 @@ const santiagoagustinplaza = new
     tools = new[] { "Postman", "Prometheus", "Dynatrace", "Grafana", "ServiceNow" },
     programming = new[] { "C#", ".NET", "ASP.NET" }
 };
-Console.WriteLine(acuedd, "Change is the end result of all true learning 🙂");
+Console.WriteLine(santiagoagustinplaza, "Change is the end result of all true learning 🙂");
 ```
 
 <img src="https://i.giphy.com/media/3n1O5MZSrfeQR7EkoS/giphy.webp" width="30"> <em><b>
