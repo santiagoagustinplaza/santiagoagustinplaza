@@ -1,7 +1,7 @@
 ## Hey there 👋
 <h2> I'm Santiago Agustin Plaza! <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="20"></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100">
-<p><em><strong>IT Support / Cloud Support / Cloud Administrator</strong></a></br>Applications Support Analyst at <a href="https://dxc.com/us/en/">DXC Technology</a> 
+<p><em><strong>DevOps Enthusiast / Cloud Administrator</strong></a></br>Cloud Engineer at <a href="https://www.accenture.com/us-en">Accenture</a> 
 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> 
 </em></p>
@@ -15,7 +15,6 @@
 ```csharp
 const santiagoagustinplaza = new
 {
-    pronouns = "He" | "him",
     sysops = new[] { "Windows Server", "RHEL", "Ubuntu" },
     scripting = new[] { "Bash", "PowerShell", "Python" },
     devops = new[]
@@ -29,7 +28,7 @@ const santiagoagustinplaza = new
         }
     },
     database = new[] { "MySQL", "SQL Server", "Oracle" },
-    tools = new[] { "Postman", "Prometheus", "Dynatrace", "Grafana", "ServiceNow" },
+    tools = new[] { "Postman", "Prometheus", "Azure DevOps", "Grafana", "ServiceNow" },
     programming = new[] { "C#", ".NET", "ASP.NET" }
 };
 Console.WriteLine(santiagoagustinplaza, "Change is the end result of all true learning 🙂");
